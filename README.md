@@ -51,9 +51,4 @@
 
 <b>Bước 3:</b> Mở file .sln lên và thay đổi các link lên kết đến Database trong  <b>"appsettings.json"</b>  là xong.
 
-<p>DB_PASSWORD=         	//có pass thì nhập</p>
-
-<b>Bước 6:</b> Cuối cùng chạy lệnh 
-
-<p><b>php artisan serve</b></p>
 
