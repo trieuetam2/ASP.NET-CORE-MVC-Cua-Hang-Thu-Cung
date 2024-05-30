@@ -1,4 +1,4 @@
-## Shop thú cưng .NET 5
+## Shop thú cưng .NET 5.
 
 ## *Source code website thương mại điện tử cửa hàng thú cưng .NET Core MVC
 
